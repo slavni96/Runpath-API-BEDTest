@@ -55,3 +55,7 @@ Icon?
 
 # Click-Once directory
 publish/
+
+# Visual Studio 2019
+.vs/
+RunpathApiBedTest/.vs/
